@@ -78,14 +78,14 @@ To find missing values in the dataset, `isnull` function was used - which showed
 <p><strong>Table 2:</strong> Standard Deviation of Scores </p>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
-    <th> Standard Deviation </th>
+    <th> Scores </th>
     <th align="center"> Math </th>
     <th align="center"> Reading </th>
     <th align="center"> Writing </th>
   </tr>
   
   <tr>
-    <td> Math </td>
+    <td> Standard Deviation </td>
     <td align="center"> 14.9224 </td>
     <td align="center"> 14.5035 </td>
     <td align="center"> 15.0684 </td>
