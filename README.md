@@ -44,7 +44,7 @@ To find missing values in the dataset, `isnull` function was used - which showed
 </table>
 
 
-## Statistical Analyses
+## Statistical Analysis
 
 <p><strong>Table 1:</strong> Mean, Median and Mode of Scores </p>
 <table border="1" cellspacing="0" cellpadding="5">
@@ -56,19 +56,19 @@ To find missing values in the dataset, `isnull` function was used - which showed
   </tr>
   <tr>
     <td> Math </td>
-    <td align="center"> 66.165000 </td>
+    <td align="center"> 66.1650 </td>
     <td align="center"> 66.0 </td>
     <td align="center"> 65.0 </td>
   </tr>
   <tr>
     <td> Reading </td>
-    <td align="center"> 69.201000 </td>
+    <td align="center"> 69.2010 </td>
     <td align="center"> 70.0 </td>
     <td align="center"> 72.0 </td>
   </tr>
   <tr>
     <td> Writing </td>
-    <td align="center"> 68.094375 </td>
+    <td align="center"> 68.0944 </td>
     <td align="center"> 69.0 </td>
     <td align="center"> 74.0 </td>
   </tr>
@@ -86,9 +86,9 @@ To find missing values in the dataset, `isnull` function was used - which showed
   
   <tr>
     <td> Math </td>
-    <td align="center"> 14.922414 </td>
-    <td align="center"> 14.503481 </td>
-    <td align="center"> 15.068368 </td>
+    <td align="center"> 14.9224 </td>
+    <td align="center"> 14.5035 </td>
+    <td align="center"> 15.0684 </td>
   </tr>
   
 </table>
