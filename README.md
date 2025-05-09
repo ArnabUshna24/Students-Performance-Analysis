@@ -18,7 +18,7 @@ For this project, `Students Performance in Exams.csv` dataset was used, which is
 To find missing values in the dataset, `isnull` function was used - which showed no missing values. Similarly, outlier identification was performed and outliers were then capped.
 
 
-## Data Visualization
+## Data Visualizations
 <table>
   
   <tr>
