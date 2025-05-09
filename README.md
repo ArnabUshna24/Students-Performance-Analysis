@@ -49,25 +49,25 @@ To find missing values in the dataset, `isnull` function was used - which showed
 <p><strong>Table 1:</strong> Mean, Median and Mode of Scores </p>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
-    <th> Scores </th>
+    <th align="left"> Scores </th>
     <th align="center"> Mean </th>
     <th align="center"> Median </th>
     <th align="center"> Mode </th>
   </tr>
   <tr>
-    <td> Math </td>
+    <td align="left"> Math </td>
     <td align="center"> 66.1650 </td>
     <td align="center"> 66.0 </td>
     <td align="center"> 65.0 </td>
   </tr>
   <tr>
-    <td> Reading </td>
+    <td align="left"> Reading </td>
     <td align="center"> 69.2010 </td>
     <td align="center"> 70.0 </td>
     <td align="center"> 72.0 </td>
   </tr>
   <tr>
-    <td> Writing </td>
+    <td align="left"> Writing </td>
     <td align="center"> 68.0944 </td>
     <td align="center"> 69.0 </td>
     <td align="center"> 74.0 </td>
@@ -78,14 +78,14 @@ To find missing values in the dataset, `isnull` function was used - which showed
 <p><strong>Table 2:</strong> Standard Deviation of Scores </p>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
-    <th> Scores </th>
+    <th align="left"> Scores </th>
     <th align="center"> Math </th>
     <th align="center"> Reading </th>
     <th align="center"> Writing </th>
   </tr>
   
   <tr>
-    <td> Standard Deviation </td>
+    <td align="left"> Standard Deviation </td>
     <td align="center"> 14.9224 </td>
     <td align="center"> 14.5035 </td>
     <td align="center"> 15.0684 </td>
@@ -97,7 +97,7 @@ To find missing values in the dataset, `isnull` function was used - which showed
 <p><strong>Table 3:</strong> Gender-wise Performance </p>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
-    <th> Scores </th>
+    <th align="left"> Scores </th>
     <th align="center"> t-statistic </th>
     <th align="center"> p-value </th>
     <th align="center"> Significance </th>
@@ -105,7 +105,7 @@ To find missing values in the dataset, `isnull` function was used - which showed
   </tr>
   
   <tr>
-    <td> Math </td>
+    <td align="left"> Math </td>
     <td align="center"> 5.31 </td>
     <td align="center"> 1.35 × 10⁻⁷ </td>
     <td align="center"> Significant </td>
@@ -113,7 +113,7 @@ To find missing values in the dataset, `isnull` function was used - which showed
   </tr>
 
   <tr>
-    <td> Reading </td>
+    <td align="left"> Reading </td>
     <td align="center"> -8.02 </td>
     <td align="center"> 2.99 × 10⁻¹⁵ </td>
     <td align="center"> Significant </td>
@@ -121,7 +121,7 @@ To find missing values in the dataset, `isnull` function was used - which showed
   </tr>
 
   <tr>
-    <td> Writing </td>
+    <td align="left"> Writing </td>
     <td align="center"> -10.06 </td>
     <td align="center"> 9.48 × 10⁻²³ </td>
     <td align="center"> Significant </td>
